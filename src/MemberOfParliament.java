@@ -1,5 +1,3 @@
-package assignment;
-
 public class MemberOfParliament {
     private String name;
     private String constituency;

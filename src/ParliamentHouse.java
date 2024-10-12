@@ -1,5 +1,3 @@
-package assignment;
-
 public abstract class ParliamentHouse {
     protected String name;
 

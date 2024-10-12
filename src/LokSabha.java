@@ -1,5 +1,3 @@
-package assignment;
-
 public class LokSabha extends ParliamentHouse {
 
     public LokSabha() {

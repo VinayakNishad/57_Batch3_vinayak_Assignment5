@@ -1,5 +1,3 @@
-package assignment;
-
 public class Bill implements Votable {
     private String title;
     private String status;
